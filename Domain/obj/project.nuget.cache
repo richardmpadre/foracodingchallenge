@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "T/q7f2Vtn9oMWsPDnkf2ta6GgaV2xRLOvX8jYUq3e8IdMnVijENqSf7+uuhmc+hWFal85FQFx6JPtz/T7LZFaA==",
+  "success": true,
+  "projectFilePath": "C:\\Richard\\code\\ForaCodingChallenge\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\richa\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\richa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

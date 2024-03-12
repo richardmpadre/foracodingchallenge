@@ -1,0 +1,12 @@
+C:\Richard\code\ForaCodingChallenge\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Richard\code\ForaCodingChallenge\Domain\bin\Debug\net8.0\Domain.dll
+C:\Richard\code\ForaCodingChallenge\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Richard\code\ForaCodingChallenge\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Richard\code\ForaCodingChallenge\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Richard\code\ForaCodingChallenge\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Richard\code\ForaCodingChallenge\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Richard\code\ForaCodingChallenge\Domain\obj\Debug\net8.0\Domain.dll
+C:\Richard\code\ForaCodingChallenge\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Richard\code\ForaCodingChallenge\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Richard\code\ForaCodingChallenge\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Richard\code\ForaCodingChallenge\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
