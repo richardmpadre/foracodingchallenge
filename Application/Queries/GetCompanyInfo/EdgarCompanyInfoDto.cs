@@ -2,7 +2,7 @@
 
 namespace Application.Queries.GetCompanyInfo
 {
-    public class EdgarCompanyInfo
+    public class EdgarCompanyInfoDto
     {
         public int Cik { get; set; }
         public string EntityName { get; set; }
